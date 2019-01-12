@@ -8,6 +8,8 @@
 
 import UIKit
 
+import HFSuperImages
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
